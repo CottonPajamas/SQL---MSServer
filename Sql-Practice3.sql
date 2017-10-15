@@ -1,5 +1,5 @@
 -----------------------------User Views----------------------------
-/*Uses NORTHWIND database*/
+/*Using NORTHWIND database*/
 
 --Exercise Userview 1
 CREATE VIEW Customer1998 AS
