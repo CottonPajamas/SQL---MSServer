@@ -1,4 +1,4 @@
-/*Uses NORTHWIND database*/
+/*Using NORTHWIND database*/
 
 --Find all
 SELECT * FROM Shippers
